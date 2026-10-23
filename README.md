@@ -12,7 +12,8 @@ Procedure:
 1)	Open Start  Programs  Accessories  Notepad
 2)	Type the following training data set with the help of Notepad for Employee Table.
 
-```@relation employee 
+```
+@relation employee 
 @attribute name {x,y,z,a,b} 
 @attribute id numeric
 @attribute salary {low,medium,high} 
@@ -26,6 +27,7 @@ y,102,high,3,female,251665
 z,103,medium,1,male,240238 
 a,104,low,5,female,200200 
 b,105,high,2,male,240240
+```
 
 3)	After that the file is saved with .arff file format.
 4)	Minimize the arff file and then open Start  Programs  weka-3-4.
@@ -124,7 +126,7 @@ Employee Table after Normalizing ID, EXP, PHONE:
 
 
 
-Output:
+### Output:
 
 Adding Address as an attribute to the table
 
@@ -144,6 +146,6 @@ Normalization of attributes
 
 
 
-Result:
+### Result:
 
 Thus, this program has been successfully executed.
