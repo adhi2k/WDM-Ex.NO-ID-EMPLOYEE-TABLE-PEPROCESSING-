@@ -95,7 +95,7 @@ Procedure:
  
 Employee Table after Normalizing ID, EXP, PHONE:
 
-<img width="1112" height="600" alt="image" src="https://github.com/user-attachments/assets/54b77b62-6b7b-4e73-b250-50b086169a2a" />
+<img width="1112" height="1112" alt="image" src="https://github.com/user-attachments/assets/54b77b62-6b7b-4e73-b250-50b086169a2a" />
 
 
 ### Output:
